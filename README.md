@@ -49,15 +49,6 @@ I'm a BCA student and freelance web developer from Dehradun, India, building res
 
 Outside of client work, I'm interested in product growth, market research, and how good design and smart tooling combine to help small businesses grow online.
 
-## 🚀 Primary Projects
-
-> Swap these placeholders for your actual pinned repos — I couldn't pull your exact repo names/descriptions, so fill these in with real links.
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Project Name](https://github.com/anishabytes/repo)** | Short one-line description of what it does | `React` |
-| **[Project Name](https://github.com/anishabytes/repo)** | Short one-line description of what it does | `Node.js` |
-| **[Project Name](https://github.com/anishabytes/repo)** | Short one-line description of what it does | `Django` |
 
 ## 🛠️ Tools I Use
 
