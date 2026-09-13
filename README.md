@@ -27,19 +27,7 @@ BCA STUDENT &nbsp;•&nbsp; FULLSTACK DEV &nbsp;•&nbsp; AI-ASSISTED BUILDER
 <img src="https://github-readme-stats.vercel.app/api?username=anishabytes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a4ff&icon_color=79dbff&text_color=e6e6e6" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishabytes&theme=dark&hide_border=true&background=0d1117&ring=c9a4ff&fire=79dbff&currStreakLabel=c9a4ff" height="165" />
 
-<br/><br/>
-
-### STACK ANALYTICS
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishabytes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a4ff&text_color=e6e6e6&langs_count=8" height="200" />
-
-<br/><br/>
-
-### ACTIVITY PULSE
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anishabytes&theme=react-dark&hide_border=true&bg_color=0d1117&color=79dbff&line=c9a4ff&point=ffffff" />
-
-</div>
+<br/>
 
 <br/>
 
