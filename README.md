@@ -44,8 +44,8 @@ Outside of client work, I'm interested in product growth, market research, and h
 
 ## 📫 Reach Me
 
-📧 anishasubba0811@gmail.com &nbsp;•&nbsp; 🌐 [anishasubba.vercel.app](https://anishasubba.vercel.app)
+📧 anishasubba783@gmail.com &nbsp;•&nbsp; 🌐 [anishasubba.vercel.app](https://anishasubba.vercel.app)
 
 <div align="center">
-<sub>Built with curiosity, coffee, and a lot of AI-assisted debugging ☕</sub>
+<sub>Built with curiosity, coffee, and a lot of debugging ☕</sub>
 </div>
